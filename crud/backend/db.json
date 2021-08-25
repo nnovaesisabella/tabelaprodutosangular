@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": " Docinho de coco queimado",
+      "price": "6.00"
+    },
+    {
+      "id": 2,
+      "name": " Churros",
+      "price": 5
+    },
+    {
+      "id": 3,
+      "name": " Brownie",
+      "price": 6
+    },
+    {
+      "name": "Queijadinha",
+      "price": "3.00",
+      "id": 4
+    },
+    {
+      "name": "Brigadeiro",
+      "price": "2.50",
+      "id": 5
+    }
+  ]
+}
